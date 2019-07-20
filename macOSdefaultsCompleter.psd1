@@ -12,7 +12,7 @@
 RootModule = 'macOSdefaultsCompleter.psm1'
 
 # Version number of this module.
-ModuleVersion = '0.0.1'
+ModuleVersion = '0.1.0'
 
 # Supported PSEditions
 CompatiblePSEditions = @('Core')
@@ -105,10 +105,10 @@ PrivateData = @{
         Tags = @('PSEdition_Core', 'MacOS')
 
         # A URL to the license for this module.
-        # LicenseUri = ''
+        LicenseUri = 'https://github.com/TylerLeonhardt/macOSdefaultsCompleter/blob/master/LICENSE'
 
         # A URL to the main website for this project.
-        # ProjectUri = ''
+        ProjectUri = 'https://github.com/TylerLeonhardt/macOSdefaultsCompleter'
 
         # A URL to an icon representing this module.
         # IconUri = ''
@@ -136,5 +136,3 @@ PrivateData = @{
 # DefaultCommandPrefix = ''
 
 }
-
-
