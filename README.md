@@ -1,5 +1,9 @@
 # Argument completer for macOS's `defaults` utility
 
+[![PowerShell Gallery](https://img.shields.io/powershellgallery/v/macOSdefaultsCompleter.svg)](https://www.powershellgallery.com/packages/macOSdefaultsCompleter)
+[![PowerShell Gallery](https://img.shields.io/powershellgallery/dt/macOSdefaultsCompleter.svg)](https://www.powershellgallery.com/packages/macOSdefaultsCompleter)
+[![PowerShell Gallery](https://img.shields.io/powershellgallery/p/macOSdefaultsCompleter.svg)](https://www.powershellgallery.com/packages/macOSdefaultsCompleter)
+
 Powered by [TabExpansionPlusPlus](https://github.com/lzybkr/TabExpansionPlusPlus). Works in PowerShell 6 and up.
 
 ## What's inside

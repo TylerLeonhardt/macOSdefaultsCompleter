@@ -10,5 +10,11 @@ pool:
   vmImage: 'macOS-latest'
 
 steps:
-- pwsh: build.ps1
+- pwsh: ./build.ps1 -Test
   displayName: 'Run build and test.'
+
+- task: PublishTestResults@2
+  inputs:
+    testRunner: NUnit
+    testResultsFiles: '**/TestResults.xml'
+  condition: succeededOrFailed()
