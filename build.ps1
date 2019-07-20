@@ -9,11 +9,11 @@ param(
 )
 
 if (!(Get-Module -ListAvailable TabExpansionPlusPlus)) {
-    Install-Module TabExpansionPlusPlus
+    Install-Module TabExpansionPlusPlus -Force
 }
 
 if(!(Get-Module -ListAvailable Pester)) {
-    Install-Module Pester
+    Install-Module Pester -Force
 }
 
 if ($Test) {
