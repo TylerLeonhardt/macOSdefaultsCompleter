@@ -13,6 +13,8 @@ Grab it from the PowerShell Gallery:
 Install-Module macOSdefaultsCompleter
 ```
 
+If you don't have PowerShell already, grab the cross-platform version of it [from GitHub](https://github.com/PowerShell/PowerShell)!
+
 ## What's inside
 
 ### Completion of sub-commands with docs
