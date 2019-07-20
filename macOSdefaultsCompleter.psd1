@@ -89,10 +89,10 @@ AliasesToExport = @()
 # List of all files packaged with this module
 FileList = @(
     'defaults.ArgumentCompleters.ps1'
-    'defaults.Messages.ps1'
+    'defaults.Messages.psd1'
     'macOSdefaultsCompleter.psd1'
     'macOSdefaultsCompleter.psm1'
-    'LICENSE'
+    'LICENSE.txt'
     'README.md'
 )
 
