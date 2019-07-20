@@ -92,7 +92,7 @@ FileList = @(
     'defaults.Messages.psd1'
     'macOSdefaultsCompleter.psd1'
     'macOSdefaultsCompleter.psm1'
-    'LICENSE'
+    'LICENSE.txt'
     'README.md'
 )
 
