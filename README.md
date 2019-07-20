@@ -8,6 +8,12 @@ Powered by [TabExpansionPlusPlus](https://github.com/lzybkr/TabExpansionPlusPlus
 
 ![Completion of sub-commands with docs](https://user-images.githubusercontent.com/2644648/61571200-abe73600-aa46-11e9-9364-d2b965fd4db0.png)
 
+NOTE: to get this view, bind `MenuComplete` to something like `Alt+Spacebar`!:
+
+```pwsh
+Set-PSReadLineKeyHandler Alt+Spacebar -Function MenuComplete
+```
+
 ### Completion of `domains`
 
 ![Completion of domains](https://user-images.githubusercontent.com/2644648/61571250-f10b6800-aa46-11e9-8fe7-bc991dd34cc2.png)
