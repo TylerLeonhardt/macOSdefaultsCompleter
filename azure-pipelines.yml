@@ -16,5 +16,5 @@ steps:
 - task: PublishTestResults@2
   inputs:
     testRunner: NUnit
-    testResultsFiles: '**/TestResults.xml'
+    testResultsFiles: '**/TestsResults.xml'
   condition: succeededOrFailed()
