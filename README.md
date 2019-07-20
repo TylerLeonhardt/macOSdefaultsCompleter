@@ -17,6 +17,8 @@ If you don't have PowerShell already, grab the cross-platform version of it [fro
 
 ## What's inside
 
+> All you have to do is hit TAB 😎
+
 ### Completion of sub-commands with docs
 
 ![Completion of sub-commands with docs](https://user-images.githubusercontent.com/2644648/61571200-abe73600-aa46-11e9-9364-d2b965fd4db0.png)
