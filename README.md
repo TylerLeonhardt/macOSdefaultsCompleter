@@ -7,6 +7,12 @@
 
 Powered by [TabExpansionPlusPlus](https://github.com/lzybkr/TabExpansionPlusPlus). Works in PowerShell 6 and up.
 
+Grab it from the PowerShell Gallery:
+
+```pwsh
+Install-Module macOSdefaultsCompleter
+```
+
 ## What's inside
 
 ### Completion of sub-commands with docs
